@@ -6,14 +6,16 @@
             "type": "item",
             "name": "Cylinder Hat",
             "description": "You will look like a magician in this one",
-            "icon_url": "https://raw.githubusercontent.com/IQ-GROUP/SnapGame-items/main/Hats/cylinder-hat-icon.png"
+            "icon_url": "https://raw.githubusercontent.com/IQ-GROUP/SnapGame-items/main/Hats/cylinder-hat-icon.png",
+            "promo": "manual"
         },
         {
             "itemdefid": 1002,
             "type": "item",
             "name": "Duck Hat",
             "description": "I guess it's bath time",
-            "icon_url": "https://raw.githubusercontent.com/IQ-GROUP/SnapGame-items/main/Hats/duck-hat-icon.png"
+            "icon_url": "https://raw.githubusercontent.com/IQ-GROUP/SnapGame-items/main/Hats/duck-hat-icon.png",
+            "promo": "manual"
         }
     ]
 }

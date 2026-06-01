@@ -6,7 +6,7 @@
             "type": "item",
             "name": "Cylinder Hat",
             "description": "You will look like a magician in this one",
-            "icon_url": "https://raw.githubusercontent.com/IQ-GROUP/SnapGame-items/main/Hats/cylinder-hat-icon.png",
+            "icon_url": "https://raw.githubusercontent.com/IQ-GROUP/SnapGame-items/main/Hats/cylinder_hat.png",
             "promo": "manual"
         },
         {
@@ -14,7 +14,7 @@
             "type": "item",
             "name": "Duck Hat",
             "description": "I guess it's bath time",
-            "icon_url": "https://raw.githubusercontent.com/IQ-GROUP/SnapGame-items/main/Hats/duck-hat-icon.png",
+            "icon_url": "https://raw.githubusercontent.com/IQ-GROUP/SnapGame-items/main/Hats/duck_hat.png",
             "promo": "manual"
         },
         {
@@ -22,7 +22,7 @@
             "type": "item",
             "name": "Special Hat",
             "description": "Only for the chosen ones",
-            "icon_url": "https://raw.githubusercontent.com/IQ-GROUP/SnapGame-items/main/Hats/special-hat-icon.png",
+            "icon_url": "https://raw.githubusercontent.com/IQ-GROUP/SnapGame-items/main/Hats/special_hat.png",
             "tradable": true,
             "marketable": true,
             "promo": "manual",

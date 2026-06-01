@@ -16,6 +16,17 @@
             "description": "I guess it's bath time",
             "icon_url": "https://raw.githubusercontent.com/IQ-GROUP/SnapGame-items/main/Hats/duck-hat-icon.png",
             "promo": "manual"
+        },
+        {
+            "itemdefid": 1003,
+            "type": "item",
+            "name": "Special Hat",
+            "description": "Only for the chosen ones",
+            "icon_url": "https://raw.githubusercontent.com/IQ-GROUP/SnapGame-items/main/Hats/special-hat-icon.png",
+            "tradable": true,
+            "marketable": true,
+            "promo": "manual",
+            "granted_manually": true
         }
     ]
 }

@@ -71,6 +71,17 @@
             "marketable": true,
             "promo": "manual",
             "granted_manually": false
+        },
+        {
+            "itemdefid": 1008,
+            "type": "item",
+            "name": "Banana",
+            "description": "Quite a big one",
+            "icon_url": "https://raw.githubusercontent.com/IQ-GROUP/SnapGame-items/main/Hats/bananahat.png",
+            "tradable": true,
+            "marketable": true,
+            "promo": "manual",
+            "granted_manually": false
         }
     ]
 }
